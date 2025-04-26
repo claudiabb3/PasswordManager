@@ -24,15 +24,15 @@ Diseñado con una estética retro y pixelada, para dar una experiencia nostálgi
 
 ✨ Funcionalidades principales
 
-   🔐 Protección de contraseñas mediante clave maestra.
+    🔐 Protección de contraseñas mediante clave maestra.
 
-   📜 Gestión de sitios: añadir, editar, eliminar y recuperar contraseñas.
+    📜 Gestión de sitios: añadir, editar, eliminar y recuperar contraseñas.
 
-   🖥️ Diseño retro-pixelado y tema oscuro.
+    🖥️ Diseño retro-pixelado y tema oscuro.
 
-   🔒 Cifrado de contraseñas antes de guardarlas.
+    🔒 Cifrado de contraseñas antes de guardarlas.
 
-   📁 Almacenamiento seguro en archivo local .json.
+    📁 Almacenamiento seguro en archivo local .json.
 
-   📏 Tamaño de ventana fijo (no redimensionable) para mantener la estética.
+    📏 Tamaño de ventana fijo (no redimensionable) para mantener la estética.
 

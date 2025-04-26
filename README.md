@@ -10,28 +10,29 @@ Todo bajo una contraseña maestra y usando cifrado para mantener tus datos prote
 Diseñado con una estética retro y pixelada, para dar una experiencia nostálgica pero potente.
 
 🛠️ Tecnologías usadas
-C# (.NET Framework)
+   --> C# (.NET Framework)
 
-Windows Forms
+    --> Windows Forms
 
-FontAwesome (íconos)
+    --> FontAwesome (íconos)
 
-Fuente personalizada: Press Start 2P
+    --> Fuente personalizada: Press Start 2P
 
-Json para almacenamiento local
+    --> Json para almacenamiento local
 
-Cifrado personalizado
+    --> Cifrado personalizado
 
 ✨ Funcionalidades principales
-🔐 Protección de contraseñas mediante clave maestra.
 
-📜 Gestión de sitios: añadir, editar, eliminar y recuperar contraseñas.
+   🔐 Protección de contraseñas mediante clave maestra.
 
-🖥️ Diseño retro-pixelado y tema oscuro.
+   📜 Gestión de sitios: añadir, editar, eliminar y recuperar contraseñas.
 
-🔒 Cifrado de contraseñas antes de guardarlas.
+   🖥️ Diseño retro-pixelado y tema oscuro.
 
-📁 Almacenamiento seguro en archivo local .json.
+   🔒 Cifrado de contraseñas antes de guardarlas.
 
-📏 Tamaño de ventana fijo (no redimensionable) para mantener la estética.
+   📁 Almacenamiento seguro en archivo local .json.
+
+   📏 Tamaño de ventana fijo (no redimensionable) para mantener la estética.
 
